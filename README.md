@@ -34,3 +34,10 @@ El dataset fue generado sintéticamente e incluye:
 - Existe una *ligera tendencia* a que películas más largas tengan mejores calificaciones.
 - Los géneros como *Drama* y *Documentary* presentan mayor duración promedio.
 - Las películas estrenadas después del 2010 tienden a tener duraciones más variadas.
+
+## Ejemplo de grafico generado
+![Grafico de duracion](rating_por_duracion_categoria.png)
+
+---
+
+Creado por [henryydata](https://github.com/henryydata)
